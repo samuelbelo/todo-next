@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+pocketbase.exe
+/pb_data
+/pb_data/backups
+
 
 # testing
 /coverage
